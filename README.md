@@ -4,7 +4,7 @@
 #### Joud Albattah / 2006880
 #### Lena Almoallim / 2115280
 #### Sadeem Alsahafi / 2110343
-## **changes : **
+## **changes :**
 #### 1-Variable Access Modifiers: The variables data and limit were changed from public to private. 
 #### 2-Constructor Name: The constructor name was changed to match the class name (Sensordataprocessor to SensorDataProcessor).
 #### 3-Method Name: The method calcAverage was renamed to calculateAverage.
